@@ -1,0 +1,28 @@
+header{
+    background-color: lightblue;
+    height: fit-content;
+    font-size: x-large;
+}
+header nav{
+display: inline;
+font-size: medium;
+position: relative;
+bottom: 0;
+left:auto;
+/* ? */
+}
+
+#gradient{
+width:auto;
+height: 200px;
+background-image: linear-gradient(blue,lightblue);
+}   
+
+#container{
+display: flex;
+width: 100%;
+}
+
+#container h4{
+    width: 100%;
+}
