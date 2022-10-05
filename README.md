@@ -1,4 +1,4 @@
-# Assignment_2
+# personal page
 
 welcome to my page.
 This is a resume page where I display info about myself and the projects I made.
