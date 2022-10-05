@@ -18,9 +18,13 @@ float: right;
     /* ? */
 }
 
+#intro{
+    font-size: large;
+}
+
 #gradient{
 width:auto;
-height: 300px;
+height: 100px;
 background-image: linear-gradient(blue,lightblue);
 }   
 
@@ -57,27 +61,57 @@ p{
 
 
 
-
-#work{
+#workContainer{
     display: flex;
     flex-wrap: wrap; 
+    /* flex-direction:column; */
     width:100%;     
 }
+
+#workMargin{
+    display: flexbox;
+    border-right: 2px solid black;
+    width: 4%;
+    height: 100px;
+
+}
+
+#projectcontainer{
+    display: flex;
+    flex-wrap: wrap; 
+    /* flex-direction:column; */
+    width: 100%;     
+}
+
+
 
 .item{
     width: 40%;
     display: block;
     margin: 1%;
     height: 400px;
+    position: relative;
 }
 
 img{
     width: 100%;
-    height: 300px;
+    height: 400px;
 }
 
 
 #contact_me{
     display: flexbox;
     flex-wrap: wrap;
+}
+
+.projectName{
+    background-color: blue;
+    color: wheat;
+    width:fit-content;
+    position: absolute;
+    top: 30%;
+}
+
+#resume{
+    font-size: medium;
 }
