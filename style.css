@@ -84,6 +84,14 @@ p{
 }
 
 
+#project1{
+    width: 82%;
+    display: block;
+    margin: 1%;
+    height: 400px;
+    position: relative;
+}
+
 
 .item{
     width: 40%;
@@ -92,6 +100,7 @@ p{
     height: 400px;
     position: relative;
 }
+
 
 img{
     width: 100%;
