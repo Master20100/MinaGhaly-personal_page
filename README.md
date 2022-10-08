@@ -13,5 +13,5 @@ project link:-
 https://github.com/Master20100/personal-page
 
 screenshot:-
-![Alt text](./photo.png "Title")
+![Alt text](./Assets/photo.png "Title")
 
