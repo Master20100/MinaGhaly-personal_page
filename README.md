@@ -11,7 +11,8 @@ html semantic elements were used.
 
 project link:-
 https://github.com/Master20100/personal-page
+Deployed link:-
+https://master20100.github.io/MinaGhaly-personal_page/
 
 screenshot:-
 ![Alt text](./Assets/photo.png "Title")
-
